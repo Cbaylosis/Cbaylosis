@@ -29,9 +29,6 @@
 <br />
 
 ##
-![Cbaylosis GitHub Activity Graph](https://raw.githubusercontent.com/Cbaylosis/Cbaylosis/output/github-contribution-grid-snake-dark.svg)
-
-##
 [![](https://visitcount.itsvg.in/api?id=cbaylosis&icon=0&color=0)](https://visitcount.itsvg.in)
 <!---
 ### 🛠 &nbsp;Tech Stack
