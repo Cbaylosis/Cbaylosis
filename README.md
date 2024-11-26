@@ -1,7 +1,7 @@
 ## Hello World, I'm [Christian Baylosis!](https://www.linkedin.com/in/christian-undefined-a162352bb/)
 
 ## About Me 🚀
-🌱 I’m a Backend developer with a Bachelor degree in Computer Technology. </br>
+🌱 I am a backend developer with a Bachelor's degree in Computer Technology. </br>
 👨‍💻 I am passionate about Web Dev & I enjoy learning new things.
 
 ## 📝 Languages
