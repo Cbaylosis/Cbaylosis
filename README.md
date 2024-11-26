@@ -1,4 +1,4 @@
-## Hello World, I'm [Christian Baylosis!]([https://www.linkedin.com/in/aakash9868sinha/](https://www.linkedin.com/in/christian-undefined-a162352bb/)) 
+## Hello World, I'm [Christian Baylosis!](https://www.linkedin.com/in/christian-undefined-a162352bb/)
 
 ## About Me 🚀
 🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
