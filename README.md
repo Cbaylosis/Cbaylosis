@@ -30,9 +30,9 @@
 
 ##
 [![](https://visitcount.itsvg.in/api?id=cbaylosis&icon=0&color=0)](https://visitcount.itsvg.in)
-
-### 🛠 &nbsp;Tech Stack
 <!---
+### 🛠 &nbsp;Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
