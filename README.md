@@ -29,7 +29,7 @@
 <br />
 
 ##
-![BEPb's github activity graph](https://raw.githubusercontent.com/Cbaylosis/Cbaylosis/output/github-contribution-grid-snake-dark.svg)
+![Cbaylosis github activity graph](https://raw.githubusercontent.com/Cbaylosis/Cbaylosis/output/github-contribution-grid-snake-dark.svg)
 
 ##
 [![](https://visitcount.itsvg.in/api?id=cbaylosis&icon=0&color=0)](https://visitcount.itsvg.in)
