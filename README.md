@@ -21,7 +21,7 @@
 
 
 ## 🛠️ Tools:
-
+<a href="https://visualstudio.microsoft.com/" target="_blank"> <img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" /></a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
