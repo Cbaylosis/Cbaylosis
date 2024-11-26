@@ -1,3 +1,8 @@
+## Hello World, I'm [Christian Baylosis!]([https://www.linkedin.com/in/aakash9868sinha/](https://www.linkedin.com/in/christian-undefined-a162352bb/)) 
+
+## About Me 🚀
+🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
+👨‍💻 I am passionate about Web Dev & I enjoy learning new things.
 
 ## 📝 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
