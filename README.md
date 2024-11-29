@@ -1,4 +1,4 @@
-## Hello World, I'm [www.linkedin.com/in/christian-bayloss-a162352bb)
+## Hello World, I'm [Christian Baylosis!](www.linkedin.com/in/christian-bayloss-a162352bb)
 
 ## About Me 🚀
 🌱 I am a backend developer with a Bachelor's degree in Computer Technology. </br>
