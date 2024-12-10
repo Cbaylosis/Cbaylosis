@@ -32,5 +32,3 @@
 <br />
 <br />
 
-
-  <img src="https://raw.githubusercontent.com/cbaylosis/cbaylosis/output/snake.svg" alt="Snake animation" />
